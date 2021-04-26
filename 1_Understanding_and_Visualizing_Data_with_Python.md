@@ -20,3 +20,9 @@ Lista spesa:
 py -m pip install jupyterlab
 ```
 
+```python
+for i in lista:
+    lista.append([wdwad.adwda])
+print("ciaociao")
+
+```
