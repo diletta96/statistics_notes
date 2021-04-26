@@ -36,7 +36,7 @@ Two key types of data:
     - typically datasets much smaller compared to organic/process dtaa sets
     - data colleted for a very specific reasons 
 
-Important question: Are the data i.i.d.? __i.i.d.= indipendent and identically stributed data__. All the observations are independent of all the other observations and the values that we're looking at are all arising from some common statistical distribution, that's where the i.i.d terminology comes from.
+Important question: Are the data i.i.d.? __i.i.d.= indipendent and identically distributed data__. All the observations are independent of all the other observations and the values that we're looking at are all arising from some common statistical distribution, that's where the i.i.d terminology comes from.
 
 
 
