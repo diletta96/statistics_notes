@@ -36,8 +36,17 @@ Two key types of data:
     - typically datasets much smaller compared to organic/process dtaa sets
     - data colleted for a very specific reasons 
 
-Important question: Are the data i.i.d.? __i.i.d.= indipendent and identically distributed data__. All the observations are independent of all the other observations and the values that we're looking at are all arising from some common statistical distribution, that's where the i.i.d terminology comes from.
+Important question: Are the data i.i.d.? __i.i.d.= indipendent and identically distributed data__. All the observations are independent of all the other observations and the values that we're looking at are all arising from some common statistical distribution, that's where the i.i.d terminology comes from. Given these i.i.d data, we can estimate the features of that distribution, things like the mean exam score, the variance in the exam scores, extreme percentiles of the exam scores and then make inference about those features.
+If data are not i.i.d., need difefrent analytic procedures
 
 
+Need to ask : __can we apply procedures that assume i.i.d. data?__ --> imporatant question before start analysis
+Need to consider where the data come from --> organic processed data?
 
-
+### Varible types
+example :
+BMI  would be reasonable to take the average of this variable.
+__Quantitative Variables__ = numerical, measurable quantities in which arithmetic operations often make sense.  
+Quantative viarables can be:
+- CONTINUOS could take on any value within an interval, many possible values
+- DISCRETE = countble value, finite number of value
