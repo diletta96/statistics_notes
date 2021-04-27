@@ -70,7 +70,8 @@ BIAS = measuraments thata are systematicallly off-target, or sample is not repre
 
 ## Data management (reading from coursera)
  refers to all steps of data processing that occur after the data are collected but before the actual data analysis.
- he cases represent individual units in the population of interest, although in some settings the distinction between cases and variables is not very clear.
+ The cases represent individual units in the population of interest, although in some settings the distinction between cases and variables is not very clear.
+
  __Best Practices for Data Management:__
  - Name variables with brief interpretable names.
  - Short variable names convey too little meaning, and very long names are awkward to use in complex expressions
