@@ -1,4 +1,4 @@
-# Week 1 - INTRODUCTION TO DATA
+#  INTRODUCTION TO DATA - Theory
 ##  What is statistics?
 It's the subject that encompasses all aspects of learning from data. So, as a methodology, we're talking about the tools, the methods to allow us to work with data to understand that data.
 A statistic is a numerical or graphical summary of a collection data (e.i. avarage score on final exam).
@@ -118,3 +118,6 @@ __Uses of wide and long format data layouts__
 
 __More Specialized Data Formats__
 Other specialized data layouts exist for other types of data, e.g. data defined as graphs (networks of nodes and edges), images, geospatial data, or text data.
+
+# Lab
+## Data types in Python
