@@ -119,5 +119,4 @@ __Uses of wide and long format data layouts__
 __More Specialized Data Formats__
 Other specialized data layouts exist for other types of data, e.g. data defined as graphs (networks of nodes and edges), images, geospatial data, or text data.
 
-# Lab
-## Data types in Python
+
