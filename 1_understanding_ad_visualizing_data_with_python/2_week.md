@@ -39,6 +39,7 @@ To calculate standard score or z-score:
 lenght of the box = IQR 
 line in the box = median
 line out of the box (whiskers) = min and max
+
 ![GitHub Logo](/images/boxplot-2.png)
 
 Histogram symmetric = symmetric boxplot
