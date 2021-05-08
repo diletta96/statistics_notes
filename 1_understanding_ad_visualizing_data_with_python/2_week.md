@@ -27,4 +27,21 @@ Depeding on the software you are using you may get sloightly different numerical
 The IQR= Q3 - Q1 --> simalar to range, but is better use IQR than range when we have righ-left skewed
 SD = standard deviation; value of spread --> the avarage distance that our dtaa points fall from the mean value
 
-# Standard score (Empirical rule)
+# Standard score (Empirical rule) or 68-95-99.7 rule
+bell-shaped or normal distributions:
+- 68 % of the values are expected to be within one standard deviation away from the mean
+- 95 % of the observations are expected to be within two standard deviations of the mean
+- 99.7 % within 3 standard deviation
+To calculate standard score or z-score: 
+(observation - mean)/ standrd deviation
+
+# Quantitavive Data: Boxplots
+lenght of the box = IQR 
+line in the box = median
+line out of the box (whiskers) = min and max
+![GitHub Logo](/images/boxplot-2.png)
+
+Histogram symmetric = symmetric boxplot
+Box plot can hepl to identify outliers = point outside the whiskers
+Box plot can hide gaps and clusters
+
